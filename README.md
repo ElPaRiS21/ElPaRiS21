@@ -1,16 +1,21 @@
-            ## Hi, I'm Adrián París Corchón👋
+<h1 align="center"><strong>Hi, I'm Adrián París Corchón!</strong><img src= https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif width=36></h1>
 
-<!--
-**ElPaRiS21/ElPaRiS21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"><strong>🛡️Future Cybersecurity Engineer -- 📝ASIR Student -- 💻SMR Technician</strong></h2>
+<br>
+<h2><strong>About me!</strong></h2>
+<p>I am currently a student pursuing a <strong>Higher Technical Vocational Training in Network Computer Systems Administration (ASIR)</strong> at ISEP CEU.<br>
+I also completed my <strong>Intermediate Technical Vocational Training in Microcomputer Systems and Networks (SMR)</strong> at ISEP CEU.</p>
+<p>My next goal after finishing my final year of ASIR and the second-year internships of ASIR, I will enter university to study the <strong>Degree in Cybersecurity Engineering</strong>.</p>
+<strong><em>I'm passionate about continuously learning in the amazing world of computing and technology.<br>
+Always eager to acquire new knowledge and skills.</strong></em>
+<br>
+<h3><strong>Hobbies!</strong></h3>
+<p>Sports//Travelling//Making plans with my family and friends//Playing videogames.</p>
+<br><br>
+<h2></h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+ 
