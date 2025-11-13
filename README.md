@@ -10,7 +10,10 @@ I also completed my <strong>Intermediate Technical Vocational Training in Microc
 Always eager to acquire new knowledge and skills.</strong></em>
 <br>
 <h3><strong>Hobbies!</strong></h3>
-<p>Sports//Travelling//Making plans with my family and friends//Playing videogames.</p>
+<li>Sports</li>
+<li>Travelling</li>
+<li>Making plans with my family and friends</li>
+<li>Playing Videogames</li>
 <br><br>
 <h2></h2>
 
