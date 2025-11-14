@@ -15,10 +15,12 @@ Always eager to acquire new knowledge and skills.</strong></em>
 <li>Making plans with my family and friends</li>
 <li>Playing Videogames</li>
 <br><br>
-<h2></h2>
-
-
-
-
-
- 
+<h2>My Skills</h2>
+<table align="center" style="border: none; width: auto;">
+  <tr style="border: none;">
+    <td colspan="6" align="center" style="border: none;"><h3>Programming Languages</h3></td>
+  </tr>
+  <tr style="border: none;">
+   <td style="border: none;" padding 12px; align="center"></td>
+   <td style="border: none;" padding 12px; align="center" img src=</td>
+   
